@@ -5,3 +5,6 @@ instagram.net
 tiktok.com
 tiktok.net
 wechat.com
+dropbox.com
+dropbox-dns.com
+v.dropbox.com
