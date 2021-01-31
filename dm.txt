@@ -8,3 +8,7 @@ wechat.com
 dropbox.com
 dropbox-dns.com
 v.dropbox.com
+dynect.net
+trafficmanager.net
+viafoura.com
+viafoura.co
